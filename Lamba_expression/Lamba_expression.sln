@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lamba_expression", "Lamba_expression\Lamba_expression.csproj", "{7E504D67-951A-4950-9D86-197718B330AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E504D67-951A-4950-9D86-197718B330AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E504D67-951A-4950-9D86-197718B330AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E504D67-951A-4950-9D86-197718B330AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E504D67-951A-4950-9D86-197718B330AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6736B5E-4F5E-46B5-B012-81679947AEBD}
+	EndGlobalSection
+EndGlobal

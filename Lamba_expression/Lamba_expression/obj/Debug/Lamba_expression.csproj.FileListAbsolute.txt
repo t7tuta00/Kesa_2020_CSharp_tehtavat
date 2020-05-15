@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Lamba_expression\Lamba_expression\bin\Debug\Lamba_expression.exe.config
+C:\Users\TT\source\repos\Lamba_expression\Lamba_expression\bin\Debug\Lamba_expression.exe
+C:\Users\TT\source\repos\Lamba_expression\Lamba_expression\bin\Debug\Lamba_expression.pdb
+C:\Users\TT\source\repos\Lamba_expression\Lamba_expression\obj\Debug\Lamba_expression.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Lamba_expression\Lamba_expression\obj\Debug\Lamba_expression.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Lamba_expression\Lamba_expression\obj\Debug\Lamba_expression.exe
+C:\Users\TT\source\repos\Lamba_expression\Lamba_expression\obj\Debug\Lamba_expression.pdb
