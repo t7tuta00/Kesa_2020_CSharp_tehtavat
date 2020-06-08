@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Tyyppimuunnokset\Tyyppimuunnokset\bin\Debug\Tyyppimuunnokset.exe.config
+C:\Users\TT\source\repos\Tyyppimuunnokset\Tyyppimuunnokset\bin\Debug\Tyyppimuunnokset.exe
+C:\Users\TT\source\repos\Tyyppimuunnokset\Tyyppimuunnokset\bin\Debug\Tyyppimuunnokset.pdb
+C:\Users\TT\source\repos\Tyyppimuunnokset\Tyyppimuunnokset\obj\Debug\Tyyppimuunnokset.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Tyyppimuunnokset\Tyyppimuunnokset\obj\Debug\Tyyppimuunnokset.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Tyyppimuunnokset\Tyyppimuunnokset\obj\Debug\Tyyppimuunnokset.exe
+C:\Users\TT\source\repos\Tyyppimuunnokset\Tyyppimuunnokset\obj\Debug\Tyyppimuunnokset.pdb
