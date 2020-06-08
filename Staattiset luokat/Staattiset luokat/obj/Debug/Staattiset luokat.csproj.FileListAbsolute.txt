@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Staattiset luokat\Staattiset luokat\bin\Debug\Staattiset luokat.exe.config
+C:\Users\TT\source\repos\Staattiset luokat\Staattiset luokat\bin\Debug\Staattiset luokat.exe
+C:\Users\TT\source\repos\Staattiset luokat\Staattiset luokat\bin\Debug\Staattiset luokat.pdb
+C:\Users\TT\source\repos\Staattiset luokat\Staattiset luokat\obj\Debug\Staattiset luokat.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Staattiset luokat\Staattiset luokat\obj\Debug\Staattiset luokat.exe
+C:\Users\TT\source\repos\Staattiset luokat\Staattiset luokat\obj\Debug\Staattiset luokat.pdb
