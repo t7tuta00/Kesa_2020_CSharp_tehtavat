@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Muodostimet\Muodostimet\bin\Debug\Muodostimet.exe.config
+C:\Users\TT\source\repos\Muodostimet\Muodostimet\bin\Debug\Muodostimet.exe
+C:\Users\TT\source\repos\Muodostimet\Muodostimet\bin\Debug\Muodostimet.pdb
+C:\Users\TT\source\repos\Muodostimet\Muodostimet\obj\Debug\Muodostimet.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Muodostimet\Muodostimet\obj\Debug\Muodostimet.exe
+C:\Users\TT\source\repos\Muodostimet\Muodostimet\obj\Debug\Muodostimet.pdb
