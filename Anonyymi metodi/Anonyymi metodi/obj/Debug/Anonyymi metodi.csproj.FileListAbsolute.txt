@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Anonyymi metodi\Anonyymi metodi\bin\Debug\Anonyymi metodi.exe.config
+C:\Users\TT\source\repos\Anonyymi metodi\Anonyymi metodi\bin\Debug\Anonyymi metodi.exe
+C:\Users\TT\source\repos\Anonyymi metodi\Anonyymi metodi\bin\Debug\Anonyymi metodi.pdb
+C:\Users\TT\source\repos\Anonyymi metodi\Anonyymi metodi\obj\Debug\Anonyymi metodi.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Anonyymi metodi\Anonyymi metodi\obj\Debug\Anonyymi metodi.exe
+C:\Users\TT\source\repos\Anonyymi metodi\Anonyymi metodi\obj\Debug\Anonyymi metodi.pdb
