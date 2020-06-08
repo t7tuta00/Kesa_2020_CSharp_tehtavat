@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Ominaisuudet\Ominaisuudet\obj\Debug\Ominaisuudet.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Ominaisuudet\Ominaisuudet\bin\Debug\Ominaisuudet.exe.config
+C:\Users\TT\source\repos\Ominaisuudet\Ominaisuudet\bin\Debug\Ominaisuudet.exe
+C:\Users\TT\source\repos\Ominaisuudet\Ominaisuudet\bin\Debug\Ominaisuudet.pdb
+C:\Users\TT\source\repos\Ominaisuudet\Ominaisuudet\obj\Debug\Ominaisuudet.exe
+C:\Users\TT\source\repos\Ominaisuudet\Ominaisuudet\obj\Debug\Ominaisuudet.pdb
