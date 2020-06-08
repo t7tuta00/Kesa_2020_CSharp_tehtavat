@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Func ja Action\Func ja Action\bin\Debug\Func ja Action.exe.config
+C:\Users\TT\source\repos\Func ja Action\Func ja Action\bin\Debug\Func ja Action.exe
+C:\Users\TT\source\repos\Func ja Action\Func ja Action\bin\Debug\Func ja Action.pdb
+C:\Users\TT\source\repos\Func ja Action\Func ja Action\obj\Debug\Func ja Action.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Func ja Action\Func ja Action\obj\Debug\Func ja Action.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Func ja Action\Func ja Action\obj\Debug\Func ja Action.exe
+C:\Users\TT\source\repos\Func ja Action\Func ja Action\obj\Debug\Func ja Action.pdb
