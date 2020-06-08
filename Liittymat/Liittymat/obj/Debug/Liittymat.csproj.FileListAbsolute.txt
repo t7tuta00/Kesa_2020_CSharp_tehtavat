@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Liittymat\Liittymat\bin\Debug\Liittymat.exe.config
+C:\Users\TT\source\repos\Liittymat\Liittymat\bin\Debug\Liittymat.exe
+C:\Users\TT\source\repos\Liittymat\Liittymat\bin\Debug\Liittymat.pdb
+C:\Users\TT\source\repos\Liittymat\Liittymat\obj\Debug\Liittymat.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Liittymat\Liittymat\obj\Debug\Liittymat.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Liittymat\Liittymat\obj\Debug\Liittymat.exe
+C:\Users\TT\source\repos\Liittymat\Liittymat\obj\Debug\Liittymat.pdb
