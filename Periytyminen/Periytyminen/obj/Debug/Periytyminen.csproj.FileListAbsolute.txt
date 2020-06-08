@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Periytyminen\Periytyminen\bin\Debug\Periytyminen.exe.config
+C:\Users\TT\source\repos\Periytyminen\Periytyminen\bin\Debug\Periytyminen.exe
+C:\Users\TT\source\repos\Periytyminen\Periytyminen\bin\Debug\Periytyminen.pdb
+C:\Users\TT\source\repos\Periytyminen\Periytyminen\obj\Debug\Periytyminen.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Periytyminen\Periytyminen\obj\Debug\Periytyminen.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Periytyminen\Periytyminen\obj\Debug\Periytyminen.exe
+C:\Users\TT\source\repos\Periytyminen\Periytyminen\obj\Debug\Periytyminen.pdb
