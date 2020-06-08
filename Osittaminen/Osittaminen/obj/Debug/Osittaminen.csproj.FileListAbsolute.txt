@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Osittaminen\Osittaminen\bin\Debug\Osittaminen.exe.config
+C:\Users\TT\source\repos\Osittaminen\Osittaminen\bin\Debug\Osittaminen.exe
+C:\Users\TT\source\repos\Osittaminen\Osittaminen\bin\Debug\Osittaminen.pdb
+C:\Users\TT\source\repos\Osittaminen\Osittaminen\obj\Debug\Osittaminen.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Osittaminen\Osittaminen\obj\Debug\Osittaminen.exe
+C:\Users\TT\source\repos\Osittaminen\Osittaminen\obj\Debug\Osittaminen.pdb
