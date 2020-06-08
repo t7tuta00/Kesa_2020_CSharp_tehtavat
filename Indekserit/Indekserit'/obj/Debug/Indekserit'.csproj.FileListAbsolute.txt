@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Indekserit'\Indekserit'\bin\Debug\Indekserit'.exe.config
+C:\Users\TT\source\repos\Indekserit'\Indekserit'\bin\Debug\Indekserit'.exe
+C:\Users\TT\source\repos\Indekserit'\Indekserit'\bin\Debug\Indekserit'.pdb
+C:\Users\TT\source\repos\Indekserit'\Indekserit'\obj\Debug\Indekserit'.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Indekserit'\Indekserit'\obj\Debug\Indekserit'.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Indekserit'\Indekserit'\obj\Debug\Indekserit'.exe
+C:\Users\TT\source\repos\Indekserit'\Indekserit'\obj\Debug\Indekserit'.pdb
