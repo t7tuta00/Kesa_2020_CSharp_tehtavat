@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Geneerinen ohjelmointi\Geneerinen ohjelmointi\bin\Debug\Geneerinen ohjelmointi.exe.config
+C:\Users\TT\source\repos\Geneerinen ohjelmointi\Geneerinen ohjelmointi\bin\Debug\Geneerinen ohjelmointi.exe
+C:\Users\TT\source\repos\Geneerinen ohjelmointi\Geneerinen ohjelmointi\bin\Debug\Geneerinen ohjelmointi.pdb
+C:\Users\TT\source\repos\Geneerinen ohjelmointi\Geneerinen ohjelmointi\obj\Debug\Geneerinen ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Geneerinen ohjelmointi\Geneerinen ohjelmointi\obj\Debug\Geneerinen ohjelmointi.exe
+C:\Users\TT\source\repos\Geneerinen ohjelmointi\Geneerinen ohjelmointi\obj\Debug\Geneerinen ohjelmointi.pdb
