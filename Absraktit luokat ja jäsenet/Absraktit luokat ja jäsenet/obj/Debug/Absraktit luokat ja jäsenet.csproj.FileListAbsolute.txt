@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Absraktit luokat ja jäsenet\Absraktit luokat ja jäsenet\bin\Debug\Absraktit luokat ja jäsenet.exe.config
+C:\Users\TT\source\repos\Absraktit luokat ja jäsenet\Absraktit luokat ja jäsenet\bin\Debug\Absraktit luokat ja jäsenet.exe
+C:\Users\TT\source\repos\Absraktit luokat ja jäsenet\Absraktit luokat ja jäsenet\bin\Debug\Absraktit luokat ja jäsenet.pdb
+C:\Users\TT\source\repos\Absraktit luokat ja jäsenet\Absraktit luokat ja jäsenet\obj\Debug\Absraktit luokat ja jäsenet.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Absraktit luokat ja jäsenet\Absraktit luokat ja jäsenet\obj\Debug\Absraktit luokat ja jäsenet.exe
+C:\Users\TT\source\repos\Absraktit luokat ja jäsenet\Absraktit luokat ja jäsenet\obj\Debug\Absraktit luokat ja jäsenet.pdb
