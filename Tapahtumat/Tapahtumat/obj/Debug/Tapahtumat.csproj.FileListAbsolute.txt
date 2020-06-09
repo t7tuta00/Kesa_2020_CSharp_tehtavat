@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Tapahtumat\Tapahtumat\bin\Debug\Tapahtumat.exe.config
+C:\Users\TT\source\repos\Tapahtumat\Tapahtumat\bin\Debug\Tapahtumat.exe
+C:\Users\TT\source\repos\Tapahtumat\Tapahtumat\bin\Debug\Tapahtumat.pdb
+C:\Users\TT\source\repos\Tapahtumat\Tapahtumat\obj\Debug\Tapahtumat.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Tapahtumat\Tapahtumat\obj\Debug\Tapahtumat.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Tapahtumat\Tapahtumat\obj\Debug\Tapahtumat.exe
+C:\Users\TT\source\repos\Tapahtumat\Tapahtumat\obj\Debug\Tapahtumat.pdb
