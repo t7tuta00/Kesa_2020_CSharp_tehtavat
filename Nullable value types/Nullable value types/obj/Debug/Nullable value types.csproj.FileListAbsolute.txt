@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\Nullable value types\Nullable value types\bin\Debug\Nullable value types.exe.config
+C:\Users\TT\source\repos\Nullable value types\Nullable value types\bin\Debug\Nullable value types.exe
+C:\Users\TT\source\repos\Nullable value types\Nullable value types\bin\Debug\Nullable value types.pdb
+C:\Users\TT\source\repos\Nullable value types\Nullable value types\obj\Debug\Nullable value types.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Nullable value types\Nullable value types\obj\Debug\Nullable value types.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Nullable value types\Nullable value types\obj\Debug\Nullable value types.exe
+C:\Users\TT\source\repos\Nullable value types\Nullable value types\obj\Debug\Nullable value types.pdb
