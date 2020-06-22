@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Interpolaatio\Interpolaatio\bin\Debug\Interpolaatio.exe.config
+C:\Users\TT\source\repos\Interpolaatio\Interpolaatio\bin\Debug\Interpolaatio.exe
+C:\Users\TT\source\repos\Interpolaatio\Interpolaatio\bin\Debug\Interpolaatio.pdb
+C:\Users\TT\source\repos\Interpolaatio\Interpolaatio\obj\Debug\Interpolaatio.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Interpolaatio\Interpolaatio\obj\Debug\Interpolaatio.exe
+C:\Users\TT\source\repos\Interpolaatio\Interpolaatio\obj\Debug\Interpolaatio.pdb
