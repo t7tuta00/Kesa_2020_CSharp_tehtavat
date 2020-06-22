@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Iterators\Iterators\bin\Debug\Iterators.exe.config
+C:\Users\TT\source\repos\Iterators\Iterators\bin\Debug\Iterators.exe
+C:\Users\TT\source\repos\Iterators\Iterators\bin\Debug\Iterators.pdb
+C:\Users\TT\source\repos\Iterators\Iterators\obj\Debug\Iterators.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Iterators\Iterators\obj\Debug\Iterators.exe
+C:\Users\TT\source\repos\Iterators\Iterators\obj\Debug\Iterators.pdb
