@@ -1,0 +1,6 @@
+C:\Users\TT\source\repos\Tuples\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\TT\source\repos\Tuples\Tuples\bin\Debug\Tuples.exe
+C:\Users\TT\source\repos\Tuples\Tuples\bin\Debug\Tuples.pdb
+C:\Users\TT\source\repos\Tuples\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Tuples\Tuples\obj\Debug\Tuples.exe
+C:\Users\TT\source\repos\Tuples\Tuples\obj\Debug\Tuples.pdb
